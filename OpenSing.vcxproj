@@ -157,7 +157,6 @@
     <ClCompile Include="SoundManager.cpp" />
     <ClCompile Include="stb_image.cpp" />
     <ClCompile Include="Syllable.cpp" />
-    <ClCompile Include="test.cc" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h" />

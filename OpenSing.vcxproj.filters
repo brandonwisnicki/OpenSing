@@ -42,9 +42,6 @@
     <ClCompile Include="GlyphManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test.cc">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="SoundManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
