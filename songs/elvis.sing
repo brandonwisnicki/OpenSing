@@ -1,0 +1,779 @@
+{
+  "name": "Can't Help Falling in Love",
+  "author": "Elvis Presley",
+  "additional": "OpenSing - PennApps Hackathon",
+  "highlightColor":[
+		1,
+        0.8,
+        0
+  ],
+    "textColor":[
+		1,
+        1,
+        1
+  ],
+  "length": 166,
+  "pages": [
+  
+	{
+      "timestamp": 0,
+      "bgCol": [
+        0.53,
+        0.05,
+        0.11
+      ],
+      "lines": [
+	  
+        ]
+		
+	},
+    {
+      "timestamp": 5,
+      "bgCol": [
+      0.53,
+        0.05,
+        0.11
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "Wise",
+              "timestamp": 6.6,
+			  "endTimestamp": 8.1,
+              "space": true
+            },
+			 {
+              "text": "men",
+              "timestamp": 8.1,
+			  "endTimestamp": 9.9,
+              "space": true
+            },
+            {
+              "text": "say",
+              "timestamp":9.9,
+			  "endTimestamp": 11.5,
+              "space": true
+            }
+          ]
+        },
+		{
+          "syllables": [
+            {
+              "text": "Only",
+              "timestamp": 12.7,
+			  "endTimestamp": 13.3,
+              "space": true
+            },
+			 {
+              "text": "fools",
+              "timestamp": 13.3,
+			  "endTimestamp": 14.6 ,
+              "space": true
+            },
+            {
+              "text": "rush",
+              "timestamp":14.7,
+			  "endTimestamp": 16.1 ,
+              "space": true
+            },
+			  {
+              "text": "in",
+              "timestamp":16.6,
+			  "endTimestamp": 18.3,
+              "space": true
+            }
+          ]
+        }
+		  
+      ]
+    }, 
+    {   
+      "timestamp": 19.5,
+      "bgCol": [
+       0.21,
+        0.74,
+        0.82
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "But I",
+              "timestamp": 19.75,
+			  "endTimestamp": 21.5,
+              "space": true
+            },	 
+            {
+              "text": "can't",
+              "timestamp": 21.6,
+			  "endTimestamp": 23.2,
+              "space": true
+            },
+            {
+              "text": "help",
+              "timestamp": 23.3,
+			  "endTimestamp": 24.7,
+              "space": true
+            },
+            {
+              "text": "falling",
+              "timestamp": 25,
+			  "endTimestamp": 26.37,
+              "space": true
+            },
+            {
+              "text": "in love",
+              "timestamp": 26.47,
+			  "endTimestamp": 28.4,
+              "space": true
+            },
+            {
+              "text": "with",
+              "timestamp": 28.4,
+			  "endTimestamp": 29.6,
+              "space": true
+            },
+            {
+              "text": "you",
+              "timestamp": 30,
+			  "endTimestamp": 31.45,
+              "space": true
+            }
+          ]
+		  }
+		  
+		 
+		  
+		  ]
+        },
+		{
+		
+		
+	"timestamp": 33.246,
+      "bgCol": [
+       0.86,
+        0.17,
+        0.30
+      ],
+		"lines":[
+			{
+          "syllables": [
+            {
+              "text": "Shall",
+              "timestamp": 33.5,
+			  "endTimestamp": 35.27,
+              "space": true
+            },	 
+            {
+              "text": "I",
+              "timestamp": 35.3,
+			  "endTimestamp": 36.9,
+              "space": true
+            },
+            {
+              "text": "stay?",
+              "timestamp": 36.9,
+			  "endTimestamp": 38.3,
+              "space": true
+            }
+          ]
+		  },
+		  
+			{
+          "syllables": [
+            {
+              "text": "Would it",
+              "timestamp": 39.7,
+			  "endTimestamp": 40.3,
+              "space": true
+            },	 
+          
+            {
+              "text": "be",
+              "timestamp": 40.3,
+			  "endTimestamp": 42.2,
+              "space": true
+            },
+            {
+              "text": "a",
+              "timestamp": 42,
+			  "endTimestamp": 43.3,
+              "space": true
+            },
+            {
+              "text": "sin?",
+              "timestamp": 43.6,
+			  "endTimestamp": 45.15,
+              "space": true
+            }
+          ]
+		  }
+		]
+		
+		
+		},
+    {
+      "timestamp": 46.8,
+      "bgCol": [
+        0.31,
+        0.13,
+        0.5
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "If I",
+              "timestamp": 46.8,
+			  "endTimestamp": 48.9,
+              "space": true
+            },	 
+            {
+              "text": "can't",
+              "timestamp": 48.85,
+			  "endTimestamp": 50.5,
+              "space": true
+            },
+            {
+              "text": "help",
+              "timestamp": 50.7,
+			  "endTimestamp": 52,
+              "space": true
+            },
+            {
+              "text": "falling",
+              "timestamp": 52.2,
+			  "endTimestamp": 53.5,
+              "space": true
+            },
+            {
+              "text": "in love",
+              "timestamp": 53.5,
+			  "endTimestamp": 55.57,
+              "space": true
+            },
+            {
+              "text": "with",
+              "timestamp": 55.7,
+			  "endTimestamp": 57.2,
+              "space": true
+            },
+            {
+              "text": "you",
+              "timestamp": 57.2,
+			  "endTimestamp": 59,
+              "space": true
+            }
+          ]
+		  }
+		  
+		 
+		  
+		  ]
+        },
+    {
+      "timestamp": 59,
+      "bgCol": [
+        0.91,
+        0.20,
+        0.45
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "Like a",
+              "timestamp": 61,
+			  "endTimestamp": 62,
+              "space": true
+            },	 
+            {
+              "text": "river",
+              "timestamp": 62.1,
+			  "endTimestamp": 62.6,
+              "space": true
+            },
+            {
+              "text": "flows",
+              "timestamp": 62.6,
+			  "endTimestamp":64.3,
+              "space": true
+            }
+          ]
+		  },{
+		   "syllables": [
+            {
+              "text": "Surely",
+              "timestamp": 64.3,
+			  "endTimestamp": 65.4,
+              "space": true
+            },	 
+            {
+              "text": "to the",
+              "timestamp": 65.4,
+			  "endTimestamp": 65.9,
+              "space": true
+            },
+            {
+              "text": "sea",
+              "timestamp": 65.8,
+			  "endTimestamp": 67.3 ,
+              "space": true
+            }
+          ]
+		  }]},
+    {
+      "timestamp": 67.5,
+      "bgCol": [
+        0.53,
+        0.05,
+        0.11
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "Darling,",
+              "timestamp":  67.7,
+			  "endTimestamp": 68.9,
+              "space": true
+            },	 
+            {
+              "text": "so it",
+              "timestamp": 68.9,
+			  "endTimestamp": 69.5,
+              "space": true
+            },
+            {
+              "text": "goes",
+              "timestamp": 69.5,
+			  "endTimestamp": 70.8,
+              "space": true
+            }
+          ]
+		  },{
+		   "syllables": [
+            {
+              "text": "Some",
+              "timestamp": 71,
+			  "endTimestamp": 71.8,
+              "space": true
+            },	 
+            {
+              "text": "things",
+              "timestamp": 71.8,
+			  "endTimestamp": 73.5,
+              "space": true
+            },
+            {
+              "text": "are",
+              "timestamp": 73.4,
+			  "endTimestamp": 74.2,
+              "space": true
+            },
+            {
+              "text": "meant to",
+              "timestamp": 74.1,
+			  "endTimestamp": 74.9,
+              "space": true
+            },
+            {
+              "text": "be",
+              "timestamp": 74.9,
+			  "endTimestamp": 76.5,
+              "space": true
+            }
+          ]
+		  }]},
+		  
+	{
+      "timestamp": 77.4,
+      "bgCol": [
+        0.21,
+        0.74,
+        0.82
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "Take",
+              "timestamp": 77.9,
+			  "endTimestamp": 79.8,
+              "space": true
+            },	 
+            {
+              "text": "my",
+              "timestamp": 79.8,
+			  "endTimestamp": 81.6,
+              "space": true
+            },
+            {
+              "text": "hand",
+              "timestamp": 81.6,
+			  "endTimestamp": 83.4,
+              "space": true
+            }
+          ]
+		  },{
+		   "syllables": [
+            {
+              "text": "Take my",
+              "timestamp": 84.4,
+			  "endTimestamp": 85,
+              "space": true
+            },	 
+            {
+              "text": "whole",
+              "timestamp": 85,
+			  "endTimestamp": 86.5,
+              "space": true
+            },
+            {
+              "text": "life",
+              "timestamp": 86.5,
+			  "endTimestamp": 88.5,
+              "space": true
+            },
+            {
+              "text": "too",
+              "timestamp": 88.5,
+			  "endTimestamp": 90.4,
+              "space": true
+            }
+          ]
+		  }]},
+    {
+      "timestamp": 91,
+      "bgCol": [
+      0.86,
+        0.17,
+        0.30
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "For I",
+              "timestamp": 91.7,
+			  "endTimestamp": 93.6,
+              "space": true
+            },	 
+            {
+              "text": "can't",
+              "timestamp": 93.7,
+			  "endTimestamp": 95.3,
+              "space": true
+            },
+            {
+              "text": "help",
+              "timestamp": 95.3,
+			  "endTimestamp": 97,
+              "space": true
+            },
+            {
+              "text": "falling",
+              "timestamp": 97.2,
+			  "endTimestamp":98.6,
+              "space": true
+            },
+            {
+              "text": "in love",
+              "timestamp": 98.6,
+			  "endTimestamp": 100.5,
+              "space": true
+            },
+            {
+              "text": "with",
+              "timestamp": 100.7,
+			  "endTimestamp": 102.5,
+              "space": true
+            },
+            {
+              "text": "you",
+              "timestamp": 102.6,
+			  "endTimestamp": 104.4,
+              "space": true
+            }
+          ]
+		  }
+
+		  ]
+        },
+		  {
+      "timestamp": 105,
+      "bgCol": [
+         0.31,
+        0.13,
+        0.5
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "Like a",
+              "timestamp": 105.9,
+			  "endTimestamp": 107,
+              "space": true
+            },	 
+            {
+              "text": "river",
+              "timestamp": 107.2,
+			  "endTimestamp": 107.7,
+              "space": true
+            },
+            {
+              "text": "flows",
+              "timestamp": 107.7,
+			  "endTimestamp":109.1,
+              "space": true
+            }
+          ]
+		  },{
+		   "syllables": [
+            {
+              "text": "Surely",
+              "timestamp": 109.3,
+			  "endTimestamp": 110.5,
+              "space": true
+            },	 
+            {
+              "text": "to the",
+              "timestamp": 110.5,
+			  "endTimestamp": 110.9,
+              "space": true
+            },
+            {
+              "text": "sea",
+              "timestamp": 110.9,
+			  "endTimestamp": 112.6,
+              "space": true
+            }
+          ]
+		  }]},
+    {
+      "timestamp": 112.7,
+      "bgCol": [
+       0.91,
+        0.20,
+        0.45
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "Darling,",
+              "timestamp":  113,
+			  "endTimestamp": 113.9,
+              "space": true
+            },	 
+            {
+              "text": "so it",
+              "timestamp": 113.9,
+			  "endTimestamp": 114.6,
+              "space": true
+            },
+            {
+              "text": "goes",
+              "timestamp": 114.6,
+			  "endTimestamp": 116,
+              "space": true
+            }
+          ]
+		  },{
+		   "syllables": [
+            {
+              "text": "Some",
+              "timestamp": 116.3,
+			  "endTimestamp": 116.8,
+              "space": true
+            },	 
+            {
+              "text": "things",
+              "timestamp": 116.9,
+			  "endTimestamp": 117.9,
+              "space": true
+            },
+            {
+              "text": "are",
+              "timestamp": 118.6,
+			  "endTimestamp": 119.2,
+              "space": true
+            },
+            {
+              "text": "meant to",
+              "timestamp": 119.2,
+			  "endTimestamp": 120,
+              "space": true
+            },
+            {
+              "text": "be",
+              "timestamp": 120,
+			  "endTimestamp": 121.4,
+              "space": true
+            }
+          ]
+		  }]},
+		  {
+      "timestamp": 122,
+      "bgCol": [
+          0.53,
+        0.05,
+        0.11
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "Take",
+              "timestamp": 122.5,
+			  "endTimestamp": 125.6,
+              "space": true
+            },	 
+            {
+              "text": "my",
+              "timestamp": 125.7,
+			  "endTimestamp": 127.6,
+              "space": true
+            },
+            {
+              "text": "hand",
+              "timestamp": 127.6,
+			  "endTimestamp": 129.2 ,
+              "space": true
+            }
+          ]
+		  },{
+		   "syllables": [
+            {
+              "text": "Take my",
+              "timestamp": 130.4,
+			  "endTimestamp": 131.2,
+              "space": true
+            },	 
+            {
+              "text": "whole",
+              "timestamp": 131.2,
+			  "endTimestamp": 133.6 ,
+              "space": true
+            },
+            {
+              "text": "life",
+              "timestamp": 133.6,
+			  "endTimestamp": 134.4,
+              "space": true
+            },
+            {
+              "text": "too",
+              "timestamp": 134.5,
+			  "endTimestamp": 136.3,
+              "space": true
+            }
+          ]
+		  }]},
+    {
+      "timestamp": 137,
+      "bgCol": [
+         0.21,
+        0.74,
+        0.82
+      ],
+      "lines": [
+        {
+          "syllables": [
+            {
+              "text": "For I",
+              "timestamp": 137.8,
+			  "endTimestamp": 139.8,
+              "space": true
+            },	 
+            {
+              "text": "can't",
+              "timestamp": 139.8,
+			  "endTimestamp": 141.6,
+              "space": true
+            },
+            {
+              "text": "help",
+              "timestamp": 141.6,
+			  "endTimestamp": 143,
+              "space": true
+            },
+            {
+              "text": "falling",
+              "timestamp": 143.4,
+			  "endTimestamp": 144.7,
+              "space": true
+            },
+            {
+              "text": "in love",
+              "timestamp": 144.7,
+			  "endTimestamp": 146.3,
+              "space": true
+            },
+            {
+              "text": "with",
+              "timestamp": 147,
+			  "endTimestamp": 148.8,
+              "space": true
+            },
+            {
+              "text": "you",
+              "timestamp": 148.8,
+			  "endTimestamp": 150.4,
+              "space": true
+            }
+          ]
+		  },{
+		  "syllables": [
+            {
+              "text": "For I",
+              "timestamp": 151.9,
+			  "endTimestamp": 154,
+              "space": true
+            },	 
+            {
+              "text": "can't",
+              "timestamp": 154,
+			  "endTimestamp": 155.7,
+              "space": true
+            },
+            {
+              "text": "help",
+              "timestamp": 155.8,
+			  "endTimestamp": 157.3,
+              "space": true
+            },
+            {
+              "text": "falling",
+              "timestamp": 157.3,
+			  "endTimestamp": 158.9,
+              "space": true
+            },
+            {
+              "text": "in love",
+              "timestamp": 158.9,
+			  "endTimestamp": 160.7,
+              "space": true
+            },
+            {
+              "text": "with",
+              "timestamp": 161.4,
+			  "endTimestamp": 163.4,
+              "space": true
+            },
+            {
+              "text": "you",
+              "timestamp": 163.7,
+			  "endTimestamp": 165.7,
+              "space": true
+            }
+          ]
+		  }
+
+		  ]
+        }
+		 
+		  
+]}

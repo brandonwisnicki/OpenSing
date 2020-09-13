@@ -1,0 +1,26 @@
+﻿  Using triplet "x64-windows" from "D:\Users\Brandon\Desktop\vcpkg\vcpkg\installed\x64-windows\"
+  main.cpp
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\shader_s.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\Line.cpp(27,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\Line.cpp(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\Line.cpp(72,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\Line.cpp(84,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\Page.cpp(71,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\Song.cpp(27,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\Song.cpp(47,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\GlyphManager.cpp(87,37): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\OpenGL\includes\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\main.cpp(150,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\main.cpp(151,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\main.cpp(165,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\main.cpp(181,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\main.cpp(183,142): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\main.cpp(218,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\main.cpp(221,26): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Brandon\source\repos\OpenSing\OpenSing\SoundManager.cpp(68): warning C4715: 'SoundManager::init': not all control paths return a value
+  OpenSing.vcxproj -> C:\Users\Brandon\source\repos\OpenSing\x64\Debug\OpenSing.exe
