@@ -1,6 +1,6 @@
 # OpenSing - An open-source karaoke format and player
 
-
+![Open Sing Logo](https://github.com/brandonwisnicki/OpenSing/blob/master/original.png?raw=true)
 
 Anyone can play their karaoke files given the audio and the custom .sing file, which is a specialized JSON object containing the lyrics and timing. You can view an example in the songs directory.
 
