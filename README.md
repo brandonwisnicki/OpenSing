@@ -5,6 +5,6 @@ This is a personal challenge to build something with a fierce team of 1 for a ha
 
 Anyone can play their karaoke files given the audio and the custom .sing file, which is a specialized JSON object containing the lyrics and timing. You can view an example in the songs directory.
 
-The King's Can't Help Falling in Love with You is an example preloaded with OpenSing.
+Elvis Presley's recording of "Can't Help Falling in Love" is an example song preloaded with OpenSing.
 
 Built with C++ and OpenGL
